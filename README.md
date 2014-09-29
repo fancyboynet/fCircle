@@ -3,10 +3,11 @@ fCircle
 
 css3环形进度条插件(1.09kb)
 
+
 使用
 =======
 
-``
+```
 
 var c = fCircle({
     container : document.getElementById('test2'), //容器
@@ -17,6 +18,6 @@ var c = fCircle({
 });
 c.update(80); //更新百分比 80%
 
-``
+```
 
 
