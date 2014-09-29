@@ -1,0 +1,20 @@
+{
+  "name": "f-circle",
+  "version": "0.0.1",
+  "authors": [
+    "name": "fancy",
+    "email": "fancyboynet@gmail.com"
+  ],
+  "description": "css3环形进度条插件",
+  "main": "fCircle.min.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "css3",
+    "html5",
+	"circle"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/fancyboynet/fCircle"
+}
