@@ -7,9 +7,7 @@ bower引用
 =======
 
 ```
-
 $ bower install f-circle
-
 ```
 
 
@@ -17,7 +15,6 @@ $ bower install f-circle
 =======
 
 ```
-
 var c = fCircle({
     container : document.getElementById('test2'), //容器
     emptyColor : '#ccc', //背景色
@@ -25,8 +22,8 @@ var c = fCircle({
     diameter : '300px', //直径
     width : '20px' //环形宽度
 });
-c.update(80); //更新百分比 80%
 
+c.update(80); //更新百分比 80%
 ```
 
 
