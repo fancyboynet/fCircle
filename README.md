@@ -3,6 +3,15 @@ fCircle
 
 css3环形进度条插件(1.09kb)
 
+bower引用
+=======
+
+```
+
+$ bower install f-circle
+
+```
+
 
 使用
 =======
